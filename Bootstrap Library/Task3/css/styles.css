@@ -1,0 +1,25 @@
+.navbar-nav {
+    text-align: center;
+}
+#sec-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.746), rgba(0, 0, 0, 0.746)),
+    url("../images/header-bg.jpg") center center/cover no-repeat ;
+}
+
+.form {
+    background-color: #212d4271;
+    outline: .1px solid #31394b;
+
+}
+.form *{
+    width: 100%;
+    
+}
+#sec-5{
+    background: linear-gradient(rgba(14, 19, 30, 0.637), rgba(14, 19, 30, 0.637)),
+    url("../images/callaction-bg.jpg") center center/cover no-repeat ;
+}
+#footer{
+    background-color: #04091D
+}
+
